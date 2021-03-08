@@ -3,4 +3,9 @@ fun main() {
     hhh()
     hhh()
     println("Test")
+    l()
+}
+
+fun l() {
+    println("L")
 }
