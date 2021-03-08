@@ -4,12 +4,17 @@ fun main() {
     hhh()
     println("Test")
     l()
+    test3()
     test2()
     test()
 }
 
 fun l() {
     println("L")
+}
+
+fun test3() {
+    println("test3")
 }
 
 fun test2() {
