@@ -14,6 +14,7 @@ fun l() {
 
 fun test2() {
     println("test2")
+}
 
 fun test() {
     println("test")
