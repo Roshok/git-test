@@ -5,6 +5,7 @@ fun main() {
     println("Test")
     l()
     test2()
+    test()
 }
 
 fun l() {
@@ -13,4 +14,7 @@ fun l() {
 
 fun test2() {
     println("test2")
+
+fun test() {
+    println("test")
 }
